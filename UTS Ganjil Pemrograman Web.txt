@@ -1,0 +1,35 @@
+UTS Ganjil Pemrograman Web
+Nama            : Pipit Fitria Zahara
+NIM             :22416255201126
+Kelas           : IF22C
+Dosen Pengampu	: Yusuf Eka Wicaksana, M.Kom
+Hari/Tanggal	: Senin, 13 November 2023
+
+Soal	: 
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+2. Sebutkan tema proyek yang sedang digarap!
+3. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+4. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! 
+   (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+5. Pada source code berikut: https://github.com/ysfwicaksana/webprogramming-course/tree/pertemuan-6 
+   Terdapat file show.php di root proyek yang menghasilkan tabel data produk, Didalam nya terdapat fitur “EDIT” dan “HAPUS”. 
+   Buatkan fitur “EDIT” dan “HAPUS” dan unggah source code di elearning/BOC!
+Jawaban  :
+1. Framework adalah sebuah cara untuk membuat aplikasi dengan menggunakan bagian-bagian yang sudah ada. Framework membantu kita untuk membuat 
+   aplikasi dengan cepat, mudah dan rapi, karena kita tidak perlu menulis kode-kode yang sama terus-menerus. Framework juga memberikan kita 
+   pustaka, pola, aturan, dan petunjuk yang bisa kita ikuti. Misalnya, kita ingin membuat aplikasi web. Kita bisa menggunakan framework seperti 
+   React, Django, atau Laravel. Framework ini sudah menyediakan bagian-bagian seperti tampilan, database, pengguna, dan lainnya. Kita tinggal 
+   mengatur bagaimana bagian-bagian ini bekerja sama dan menambahkan fitur-fitur yang kita inginkan. Framework ini juga sudah memiliki aturan 
+   yang harus kita patuhi, seperti cara menulis kode, cara menyimpan data, cara menguji aplikasi, dan lain-lain. Dengan begitu, kita tidak perlu 
+   membuat semuanya dari awal dan aplikasi kita bisa lebih berkualitas dan mudah dikelola.
+2. Membuat Aplikasi Web “Laundry”
+3. a. Pipit Fitria Zahara = Database
+   b. Neira Anggia = Laporan
+   c. Muhammad Salman Fauzi = Web
+4. Permasalahan yang terdapat pada de'laundry:
+    a. Terkait dengan sistem pembayaran dan penagihan belum cukup rinci.
+        Solusi: Perlu merinci lebih lanjut tentang bagaimana sistem pembayaran akan bekerja dan bagaimana penagihan akan diatur.
+    b. Menunjukkan pengelolaan pelanggan dilakukan secara manual atau otomatis tanpa menjelaskan lebih lanjut.
+        Solusi: Perlu merinci bagaimana pengelolaan pelanggan dan pesanan akan dilakukan dalam aplikasi.
+    c. Memberikan jangka waktu update dan pemeliharaan yang belum cukup spesifik.
+        Solusi: Perlu menentukan proses yang lebih rinci terkait dengan pemeliharaan dan dukungan teknis aplikasi.
